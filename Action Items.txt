@@ -1,0 +1,10 @@
+Action Items
+
+1) Created separate roles for setting up Apache Tomcat and 
+Apache Maven
+
+2) Added the necessary logic to the roles to set up the tools
+
+3) Created a new playbook and call Tomcat as well as Maven roles inside it
+
+4)Executed the playbook on all the hosts
